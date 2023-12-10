@@ -2,6 +2,6 @@
 echo "Good Morning Team"
 sleep 1
 echo "Enter Your Pin"
-read s -pin
+read pin
 echo "Pin Correct"
 
